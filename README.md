@@ -2,8 +2,8 @@
 
 (peer review version)
 
-* **[Data](#data)**
-* **[Code](#recreating-l4nat)**
+* **[Data](#data)** (`data/`)
+* **[Code](#recreating-l4nat)** (`src/`)
 
 ### (re)creating L4NAT
 Generating a data set for citation based tasks using arxiv.org submissions.

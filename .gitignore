@@ -1,6 +1,4 @@
 *.swp
 *.pyc
 venv
-*.jsonl
-*.json
 *.npy
